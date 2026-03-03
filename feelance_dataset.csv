@@ -1,0 +1,21 @@
+project_id,title,description,skills_required,start,end,profit
+Project 1,E-Commerce Website,Develop a full-featured online store for electronics.,HTML,JavaScript,React,Backend,2024-07-01,2024-09-15,50000
+Project 2,Mobile Banking App,Create a secure mobile banking application for Android and iOS.,Android,Java,UI/UX Design,SQL,2024-08-01,2024-12-01,60000
+Project 3,Inventory Management System,Build a web-based inventory management system for warehouses.,Python,Web Development,SQL,Backend,2024-06-15,2024-08-30,38000
+Project 4,Social Media Analytics Tool,Develop a tool to analyze social media trends and engagement.,Python,Data Science,Machine Learning,JavaScript,2024-07-10,2024-10-10,75000
+Project 5,Online Learning Platform,Create a platform for hosting and managing online courses.,Full Stack Development,HTML,JavaScript,SQL,2024-09-01,2024-12-15,28000
+Project 6,Restaurant Reservation System,Develop a system for managing restaurant reservations and table bookings.,JavaScript,Backend,SQL,Web Development,2024-07-20,2024-09-20,70000
+Project 7,Fitness Tracker App,Build a mobile app to track workouts and fitness goals.,Android,Java,UI/UX Design,Full Stack Development,2024-08-05,2024-10-25,90000
+Project 8,Travel Booking Portal,Create a portal for booking flights, hotels, and tours.,Java,Spring Boot,React,SQL,2024-07-15,2024-11-01,80000
+Project 9,Real Estate Listing Website,Develop a website for listing and searching real estate properties.,HTML,Web Development,JavaScript,Backend,2024-06-20,2024-08-20,65000
+Project 10,Online Food Delivery App,Build a mobile app for ordering and delivering food.,React,JavaScript,SQL,Android,2024-08-10,2024-11-10,56000
+Project 11,Job Portal,Create a platform for job seekers and employers.,Java,Spring Boot,SQL,UI/UX Design,2024-07-05,2024-09-25,71000
+Project 12,Event Management System,Develop a system to manage events, registrations, and ticketing.,Python,HTML,SQL,Backend,2024-08-15,2024-10-30,90500
+Project 13,Healthcare Appointment App,Build an app for booking and managing healthcare appointments.,JavaScript,React,SQL,Android,2024-09-10,2024-12-10,44000
+Project 14,Online Quiz Platform,Create a platform for hosting and taking online quizzes.,HTML,Full Stack Development,Java,SQL,2024-07-25,2024-09-30,70500
+Project 15,Personal Finance Tracker,Develop a web app to track personal expenses and budgets.,JavaScript,SQL,Backend,UI/UX Design,2024-06-25,2024-08-25,50000
+Project 16,Crowdfunding Platform,Build a platform for launching and supporting crowdfunding campaigns.,Web Development,JavaScript,SQL,Full Stack Development,2024-08-20,2024-11-20,77000
+Project 17,Online Marketplace,Create a marketplace for buying and selling handmade goods.,Python,React,SQL,Backend,2024-09-05,2024-12-05,21000
+Project 18,Task Management Tool,Develop a tool for managing tasks and team collaboration.,JavaScript,Full Stack Development,SQL,Web Development,2024-07-30,2024-09-30,80500
+Project 19,Weather Forecast App,Build a mobile app to provide weather forecasts and alerts.,Android,Java,UI/UX Design,Machine Learning,2024-08-25,2024-10-15,60000
+Project 20,Online Survey System,Create a system for designing and conducting online surveys.,JavaScript,HTML,SQL,Backend,2024-09-15,2024-11-15,70000

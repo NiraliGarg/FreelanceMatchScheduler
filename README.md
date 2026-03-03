@@ -44,7 +44,7 @@ The GUI will prompt you to select the CSV file and then allocate projects when y
 
 ```
 FreelanceMatchScheduler/
-├─ README.md          (this file)
+├─ README.md          
 ├─ feelance_dataset.csv
 ├─ FreelanceMatchGUI.java
 ├─ FreelanceProjectAllocator.java

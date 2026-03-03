@@ -40,12 +40,6 @@ Follow these steps to compile and run the application on a Windows machine with 
 
 The GUI will prompt you to select the CSV file and then allocate projects when you click the "Match Projects" button.
 
-## 🎓 Notes for Students
-
-- This project was created to demonstrate object‑oriented design, file I/O, and basic algorithm implementation in Java.
-- You are encouraged to modify and experiment with the matching logic (e.g., try greedy, backtracking, or optimization techniques).
-- The dataset can be replaced with your own test cases to see how the allocator behaves.
-
 ## 📁 Repository Structure
 
 ```
